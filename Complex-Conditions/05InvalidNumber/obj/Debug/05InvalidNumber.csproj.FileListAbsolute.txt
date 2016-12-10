@@ -1,0 +1,5 @@
+c:\users\martin\documents\visual studio 2015\Projects\Complex-Conditions\05InvalidNumber\bin\Debug\05InvalidNumber.exe.config
+c:\users\martin\documents\visual studio 2015\Projects\Complex-Conditions\05InvalidNumber\bin\Debug\05InvalidNumber.exe
+c:\users\martin\documents\visual studio 2015\Projects\Complex-Conditions\05InvalidNumber\bin\Debug\05InvalidNumber.pdb
+c:\users\martin\documents\visual studio 2015\Projects\Complex-Conditions\05InvalidNumber\obj\Debug\05InvalidNumber.exe
+c:\users\martin\documents\visual studio 2015\Projects\Complex-Conditions\05InvalidNumber\obj\Debug\05InvalidNumber.pdb

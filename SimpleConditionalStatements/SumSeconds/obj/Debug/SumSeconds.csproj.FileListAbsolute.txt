@@ -1,0 +1,6 @@
+c:\users\martin\documents\visual studio 2015\Projects\SimpleConditionalStatements\SumSeconds\bin\Debug\SumSeconds.exe.config
+c:\users\martin\documents\visual studio 2015\Projects\SimpleConditionalStatements\SumSeconds\bin\Debug\SumSeconds.exe
+c:\users\martin\documents\visual studio 2015\Projects\SimpleConditionalStatements\SumSeconds\bin\Debug\SumSeconds.pdb
+c:\users\martin\documents\visual studio 2015\Projects\SimpleConditionalStatements\SumSeconds\obj\Debug\SumSeconds.exe
+c:\users\martin\documents\visual studio 2015\Projects\SimpleConditionalStatements\SumSeconds\obj\Debug\SumSeconds.pdb
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SimpleConditionalStatements\SumSeconds\obj\Debug\SumSeconds.csprojResolveAssemblyReference.cache

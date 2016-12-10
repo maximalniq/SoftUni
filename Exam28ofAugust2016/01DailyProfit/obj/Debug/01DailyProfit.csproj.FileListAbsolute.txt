@@ -1,0 +1,5 @@
+c:\users\martin\documents\visual studio 2015\Projects\Exam28ofAugust2016\01DailyProfit\bin\Debug\01DailyProfit.exe.config
+c:\users\martin\documents\visual studio 2015\Projects\Exam28ofAugust2016\01DailyProfit\bin\Debug\01DailyProfit.exe
+c:\users\martin\documents\visual studio 2015\Projects\Exam28ofAugust2016\01DailyProfit\bin\Debug\01DailyProfit.pdb
+c:\users\martin\documents\visual studio 2015\Projects\Exam28ofAugust2016\01DailyProfit\obj\Debug\01DailyProfit.exe
+c:\users\martin\documents\visual studio 2015\Projects\Exam28ofAugust2016\01DailyProfit\obj\Debug\01DailyProfit.pdb

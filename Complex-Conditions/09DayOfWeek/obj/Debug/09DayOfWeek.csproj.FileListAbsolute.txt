@@ -1,0 +1,6 @@
+c:\users\martin\documents\visual studio 2015\Projects\Complex-Conditions\09DayOfWeek\bin\Debug\09DayOfWeek.exe.config
+c:\users\martin\documents\visual studio 2015\Projects\Complex-Conditions\09DayOfWeek\bin\Debug\09DayOfWeek.exe
+c:\users\martin\documents\visual studio 2015\Projects\Complex-Conditions\09DayOfWeek\bin\Debug\09DayOfWeek.pdb
+c:\users\martin\documents\visual studio 2015\Projects\Complex-Conditions\09DayOfWeek\obj\Debug\09DayOfWeek.csprojResolveAssemblyReference.cache
+c:\users\martin\documents\visual studio 2015\Projects\Complex-Conditions\09DayOfWeek\obj\Debug\09DayOfWeek.exe
+c:\users\martin\documents\visual studio 2015\Projects\Complex-Conditions\09DayOfWeek\obj\Debug\09DayOfWeek.pdb

@@ -1,0 +1,5 @@
+c:\users\martin\documents\visual studio 2015\Projects\AdvancedLoops\NumbersNto1\bin\Debug\NumbersNto1.exe.config
+c:\users\martin\documents\visual studio 2015\Projects\AdvancedLoops\NumbersNto1\bin\Debug\NumbersNto1.exe
+c:\users\martin\documents\visual studio 2015\Projects\AdvancedLoops\NumbersNto1\bin\Debug\NumbersNto1.pdb
+c:\users\martin\documents\visual studio 2015\Projects\AdvancedLoops\NumbersNto1\obj\Debug\NumbersNto1.exe
+c:\users\martin\documents\visual studio 2015\Projects\AdvancedLoops\NumbersNto1\obj\Debug\NumbersNto1.pdb

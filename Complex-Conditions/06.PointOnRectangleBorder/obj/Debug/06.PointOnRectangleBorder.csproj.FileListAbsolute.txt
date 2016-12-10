@@ -1,0 +1,5 @@
+c:\users\martin\documents\visual studio 2015\Projects\Complex-Conditions\06.PointOnRectangleBorder\bin\Debug\06.PointOnRectangleBorder.exe.config
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\Complex-Conditions\06.PointOnRectangleBorder\bin\Debug\06.PointOnRectangleBorder.exe
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\Complex-Conditions\06.PointOnRectangleBorder\bin\Debug\06.PointOnRectangleBorder.pdb
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\Complex-Conditions\06.PointOnRectangleBorder\obj\Debug\06.PointOnRectangleBorder.exe
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\Complex-Conditions\06.PointOnRectangleBorder\obj\Debug\06.PointOnRectangleBorder.pdb

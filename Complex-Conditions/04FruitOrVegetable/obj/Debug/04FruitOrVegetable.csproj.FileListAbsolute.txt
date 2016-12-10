@@ -1,0 +1,5 @@
+c:\users\martin\documents\visual studio 2015\Projects\Complex-Conditions\04FruitOrVegetable\bin\Debug\04FruitOrVegetable.exe.config
+c:\users\martin\documents\visual studio 2015\Projects\Complex-Conditions\04FruitOrVegetable\bin\Debug\04FruitOrVegetable.exe
+c:\users\martin\documents\visual studio 2015\Projects\Complex-Conditions\04FruitOrVegetable\bin\Debug\04FruitOrVegetable.pdb
+c:\users\martin\documents\visual studio 2015\Projects\Complex-Conditions\04FruitOrVegetable\obj\Debug\04FruitOrVegetable.exe
+c:\users\martin\documents\visual studio 2015\Projects\Complex-Conditions\04FruitOrVegetable\obj\Debug\04FruitOrVegetable.pdb

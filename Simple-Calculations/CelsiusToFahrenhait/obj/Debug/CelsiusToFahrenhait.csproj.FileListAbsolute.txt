@@ -1,0 +1,5 @@
+c:\users\martin\documents\visual studio 2015\Projects\Simple-Calculations\CelsiusToFahrenhait\bin\Debug\CelsiusToFahrenhait.exe.config
+c:\users\martin\documents\visual studio 2015\Projects\Simple-Calculations\CelsiusToFahrenhait\bin\Debug\CelsiusToFahrenhait.exe
+c:\users\martin\documents\visual studio 2015\Projects\Simple-Calculations\CelsiusToFahrenhait\bin\Debug\CelsiusToFahrenhait.pdb
+c:\users\martin\documents\visual studio 2015\Projects\Simple-Calculations\CelsiusToFahrenhait\obj\Debug\CelsiusToFahrenhait.exe
+c:\users\martin\documents\visual studio 2015\Projects\Simple-Calculations\CelsiusToFahrenhait\obj\Debug\CelsiusToFahrenhait.pdb

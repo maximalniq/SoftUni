@@ -1,0 +1,6 @@
+c:\users\martin\documents\visual studio 2015\Projects\Exam28ofAugust2016\FirmCalculations\bin\Debug\FirmCalculations.exe.config
+c:\users\martin\documents\visual studio 2015\Projects\Exam28ofAugust2016\FirmCalculations\bin\Debug\FirmCalculations.exe
+c:\users\martin\documents\visual studio 2015\Projects\Exam28ofAugust2016\FirmCalculations\bin\Debug\FirmCalculations.pdb
+c:\users\martin\documents\visual studio 2015\Projects\Exam28ofAugust2016\FirmCalculations\obj\Debug\FirmCalculations.csprojResolveAssemblyReference.cache
+c:\users\martin\documents\visual studio 2015\Projects\Exam28ofAugust2016\FirmCalculations\obj\Debug\FirmCalculations.exe
+c:\users\martin\documents\visual studio 2015\Projects\Exam28ofAugust2016\FirmCalculations\obj\Debug\FirmCalculations.pdb

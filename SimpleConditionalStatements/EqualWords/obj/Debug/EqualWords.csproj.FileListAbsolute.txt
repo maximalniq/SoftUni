@@ -1,0 +1,5 @@
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SimpleConditionalStatements\EqualWords\bin\Debug\EqualWords.exe.config
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SimpleConditionalStatements\EqualWords\bin\Debug\EqualWords.exe
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SimpleConditionalStatements\EqualWords\bin\Debug\EqualWords.pdb
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SimpleConditionalStatements\EqualWords\obj\Debug\EqualWords.exe
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SimpleConditionalStatements\EqualWords\obj\Debug\EqualWords.pdb

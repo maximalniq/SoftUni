@@ -1,0 +1,6 @@
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SimpleConditionalStatements\TransportPrice\bin\Debug\TransportPrice.exe.config
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SimpleConditionalStatements\TransportPrice\bin\Debug\TransportPrice.exe
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SimpleConditionalStatements\TransportPrice\bin\Debug\TransportPrice.pdb
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SimpleConditionalStatements\TransportPrice\obj\Debug\TransportPrice.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SimpleConditionalStatements\TransportPrice\obj\Debug\TransportPrice.exe
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SimpleConditionalStatements\TransportPrice\obj\Debug\TransportPrice.pdb

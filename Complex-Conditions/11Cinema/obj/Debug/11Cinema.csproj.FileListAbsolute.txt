@@ -1,0 +1,5 @@
+c:\users\martin\documents\visual studio 2015\Projects\Complex-Conditions\11Cinema\bin\Debug\11Cinema.exe.config
+c:\users\martin\documents\visual studio 2015\Projects\Complex-Conditions\11Cinema\bin\Debug\11Cinema.exe
+c:\users\martin\documents\visual studio 2015\Projects\Complex-Conditions\11Cinema\bin\Debug\11Cinema.pdb
+c:\users\martin\documents\visual studio 2015\Projects\Complex-Conditions\11Cinema\obj\Debug\11Cinema.exe
+c:\users\martin\documents\visual studio 2015\Projects\Complex-Conditions\11Cinema\obj\Debug\11Cinema.pdb

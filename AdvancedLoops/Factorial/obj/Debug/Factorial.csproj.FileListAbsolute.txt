@@ -1,0 +1,5 @@
+c:\users\martin\documents\visual studio 2015\Projects\AdvancedLoops\Factorial\bin\Debug\Factorial.exe.config
+c:\users\martin\documents\visual studio 2015\Projects\AdvancedLoops\Factorial\bin\Debug\Factorial.exe
+c:\users\martin\documents\visual studio 2015\Projects\AdvancedLoops\Factorial\bin\Debug\Factorial.pdb
+c:\users\martin\documents\visual studio 2015\Projects\AdvancedLoops\Factorial\obj\Debug\Factorial.exe
+c:\users\martin\documents\visual studio 2015\Projects\AdvancedLoops\Factorial\obj\Debug\Factorial.pdb
