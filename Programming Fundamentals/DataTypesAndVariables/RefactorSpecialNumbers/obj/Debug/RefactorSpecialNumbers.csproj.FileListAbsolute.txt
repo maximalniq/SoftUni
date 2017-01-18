@@ -1,0 +1,6 @@
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesAndVariables\RefactorSpecialNumbers\bin\Debug\RefactorSpecialNumbers.exe.config
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesAndVariables\RefactorSpecialNumbers\bin\Debug\RefactorSpecialNumbers.exe
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesAndVariables\RefactorSpecialNumbers\bin\Debug\RefactorSpecialNumbers.pdb
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesAndVariables\RefactorSpecialNumbers\obj\Debug\RefactorSpecialNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesAndVariables\RefactorSpecialNumbers\obj\Debug\RefactorSpecialNumbers.exe
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesAndVariables\RefactorSpecialNumbers\obj\Debug\RefactorSpecialNumbers.pdb
