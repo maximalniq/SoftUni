@@ -1,5 +1,0 @@
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesAndVariables\CircleAreaPrecision12\bin\Debug\CircleAreaPrecision12.exe.config
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesAndVariables\CircleAreaPrecision12\bin\Debug\CircleAreaPrecision12.exe
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesAndVariables\CircleAreaPrecision12\bin\Debug\CircleAreaPrecision12.pdb
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesAndVariables\CircleAreaPrecision12\obj\Debug\CircleAreaPrecision12.exe
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesAndVariables\CircleAreaPrecision12\obj\Debug\CircleAreaPrecision12.pdb

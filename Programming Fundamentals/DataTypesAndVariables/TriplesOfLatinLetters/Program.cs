@@ -10,6 +10,7 @@ namespace TriplesOfLatinLetters
     {
         static void Main(string[] args)
         {
+            //Nereshena
 
         }
     }

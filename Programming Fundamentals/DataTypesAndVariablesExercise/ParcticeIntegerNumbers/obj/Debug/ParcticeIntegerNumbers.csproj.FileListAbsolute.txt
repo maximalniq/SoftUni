@@ -1,0 +1,5 @@
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesAndVariablesExercise\ParcticeIntegerNumbers\bin\Debug\ParcticeIntegerNumbers.exe.config
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesAndVariablesExercise\ParcticeIntegerNumbers\bin\Debug\ParcticeIntegerNumbers.exe
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesAndVariablesExercise\ParcticeIntegerNumbers\bin\Debug\ParcticeIntegerNumbers.pdb
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesAndVariablesExercise\ParcticeIntegerNumbers\obj\Debug\ParcticeIntegerNumbers.exe
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesAndVariablesExercise\ParcticeIntegerNumbers\obj\Debug\ParcticeIntegerNumbers.pdb

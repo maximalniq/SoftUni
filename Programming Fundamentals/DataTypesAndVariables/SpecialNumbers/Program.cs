@@ -10,6 +10,7 @@ namespace SpecialNumbers
     {
         static void Main(string[] args)
         {
+            //Nereshena
             int kolkko = int.Parse(Console.ReadLine());
             int obshto = 0;
             for (int ch = 1; ch <= kolkko; ch++)

@@ -8,6 +8,7 @@ namespace RefactorSpecialNumbers
 {
     class Program
     {
+        //Nereshena
         static void Main(string[] args)
         {
             int kolkko = int.Parse(Console.ReadLine());

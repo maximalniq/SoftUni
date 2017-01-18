@@ -1,5 +1,0 @@
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesAndVariables\ExactSumOfRealNumbers\bin\Debug\ExactSumOfRealNumbers.exe.config
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesAndVariables\ExactSumOfRealNumbers\bin\Debug\ExactSumOfRealNumbers.exe
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesAndVariables\ExactSumOfRealNumbers\bin\Debug\ExactSumOfRealNumbers.pdb
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesAndVariables\ExactSumOfRealNumbers\obj\Debug\ExactSumOfRealNumbers.exe
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesAndVariables\ExactSumOfRealNumbers\obj\Debug\ExactSumOfRealNumbers.pdb
