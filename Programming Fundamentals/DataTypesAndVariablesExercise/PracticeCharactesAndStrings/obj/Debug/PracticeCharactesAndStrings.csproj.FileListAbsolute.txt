@@ -1,0 +1,6 @@
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesAndVariablesExercise\PracticeCharactesAndStrings\bin\Debug\PracticeCharactesAndStrings.exe.config
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesAndVariablesExercise\PracticeCharactesAndStrings\obj\Debug\PracticeCharactesAndStrings.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesAndVariablesExercise\PracticeCharactesAndStrings\bin\Debug\PracticeCharactesAndStrings.exe
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesAndVariablesExercise\PracticeCharactesAndStrings\bin\Debug\PracticeCharactesAndStrings.pdb
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesAndVariablesExercise\PracticeCharactesAndStrings\obj\Debug\PracticeCharactesAndStrings.exe
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesAndVariablesExercise\PracticeCharactesAndStrings\obj\Debug\PracticeCharactesAndStrings.pdb
