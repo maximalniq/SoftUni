@@ -1,0 +1,5 @@
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesNumAndConversLab\ExactProductOfRealNumbers\bin\Debug\ExactProductOfRealNumbers.exe.config
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesNumAndConversLab\ExactProductOfRealNumbers\bin\Debug\ExactProductOfRealNumbers.exe
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesNumAndConversLab\ExactProductOfRealNumbers\bin\Debug\ExactProductOfRealNumbers.pdb
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesNumAndConversLab\ExactProductOfRealNumbers\obj\Debug\ExactProductOfRealNumbers.exe
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesNumAndConversLab\ExactProductOfRealNumbers\obj\Debug\ExactProductOfRealNumbers.pdb
