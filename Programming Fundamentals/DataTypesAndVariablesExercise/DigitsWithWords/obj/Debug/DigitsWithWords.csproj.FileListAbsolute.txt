@@ -1,0 +1,6 @@
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesAndVariablesExercise\DigitsWithWords\bin\Debug\DigitsWithWords.exe.config
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesAndVariablesExercise\DigitsWithWords\bin\Debug\DigitsWithWords.exe
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesAndVariablesExercise\DigitsWithWords\bin\Debug\DigitsWithWords.pdb
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesAndVariablesExercise\DigitsWithWords\obj\Debug\DigitsWithWords.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesAndVariablesExercise\DigitsWithWords\obj\Debug\DigitsWithWords.exe
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesAndVariablesExercise\DigitsWithWords\obj\Debug\DigitsWithWords.pdb

@@ -1,1 +1,6 @@
 C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesAndVariablesExercise\TravellingAtLightSpeed\bin\Debug\TravellingAtLightSpeed.exe.config
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesAndVariablesExercise\TravellingAtLightSpeed\bin\Debug\TravellingAtLightSpeed.exe
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesAndVariablesExercise\TravellingAtLightSpeed\bin\Debug\TravellingAtLightSpeed.pdb
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesAndVariablesExercise\TravellingAtLightSpeed\obj\Debug\TravellingAtLightSpeed.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesAndVariablesExercise\TravellingAtLightSpeed\obj\Debug\TravellingAtLightSpeed.exe
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesAndVariablesExercise\TravellingAtLightSpeed\obj\Debug\TravellingAtLightSpeed.pdb

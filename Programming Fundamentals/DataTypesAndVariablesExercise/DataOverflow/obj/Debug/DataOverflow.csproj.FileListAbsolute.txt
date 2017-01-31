@@ -1,0 +1,6 @@
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesAndVariablesExercise\DataOverflow\bin\Debug\DataOverflow.exe.config
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesAndVariablesExercise\DataOverflow\obj\Debug\DataOverflow.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesAndVariablesExercise\DataOverflow\bin\Debug\DataOverflow.exe
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesAndVariablesExercise\DataOverflow\bin\Debug\DataOverflow.pdb
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesAndVariablesExercise\DataOverflow\obj\Debug\DataOverflow.exe
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesAndVariablesExercise\DataOverflow\obj\Debug\DataOverflow.pdb
