@@ -1,0 +1,6 @@
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\MethodsExercises\NthDigit\bin\Debug\NthDigit.exe.config
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\MethodsExercises\NthDigit\bin\Debug\NthDigit.exe
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\MethodsExercises\NthDigit\bin\Debug\NthDigit.pdb
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\MethodsExercises\NthDigit\obj\Debug\NthDigit.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\MethodsExercises\NthDigit\obj\Debug\NthDigit.exe
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\MethodsExercises\NthDigit\obj\Debug\NthDigit.pdb

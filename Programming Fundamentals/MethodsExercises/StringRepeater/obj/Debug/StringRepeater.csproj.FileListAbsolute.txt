@@ -1,0 +1,6 @@
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\MethodsExercises\StringRepeater\bin\Debug\StringRepeater.exe.config
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\MethodsExercises\StringRepeater\bin\Debug\StringRepeater.exe
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\MethodsExercises\StringRepeater\bin\Debug\StringRepeater.pdb
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\MethodsExercises\StringRepeater\obj\Debug\StringRepeater.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\MethodsExercises\StringRepeater\obj\Debug\StringRepeater.exe
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\MethodsExercises\StringRepeater\obj\Debug\StringRepeater.pdb

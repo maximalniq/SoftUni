@@ -1,0 +1,6 @@
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\MethodsExercises\IntegerToBase\bin\Debug\IntegerToBase.exe.config
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\MethodsExercises\IntegerToBase\bin\Debug\IntegerToBase.exe
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\MethodsExercises\IntegerToBase\bin\Debug\IntegerToBase.pdb
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\MethodsExercises\IntegerToBase\obj\Debug\IntegerToBase.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\MethodsExercises\IntegerToBase\obj\Debug\IntegerToBase.exe
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\MethodsExercises\IntegerToBase\obj\Debug\IntegerToBase.pdb

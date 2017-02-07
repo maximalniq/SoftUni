@@ -1,0 +1,5 @@
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\MethodsExercises\MinMethod\bin\Debug\MinMethod.exe.config
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\MethodsExercises\MinMethod\bin\Debug\MinMethod.exe
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\MethodsExercises\MinMethod\bin\Debug\MinMethod.pdb
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\MethodsExercises\MinMethod\obj\Debug\MinMethod.exe
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\MethodsExercises\MinMethod\obj\Debug\MinMethod.pdb
