@@ -1,0 +1,5 @@
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\ArraysSimpleArrayLab\CountOfOddNumbersInArray\bin\Debug\CountOfOddNumbersInArray.exe.config
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\ArraysSimpleArrayLab\CountOfOddNumbersInArray\bin\Debug\CountOfOddNumbersInArray.exe
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\ArraysSimpleArrayLab\CountOfOddNumbersInArray\bin\Debug\CountOfOddNumbersInArray.pdb
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\ArraysSimpleArrayLab\CountOfOddNumbersInArray\obj\Debug\CountOfOddNumbersInArray.exe
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\ArraysSimpleArrayLab\CountOfOddNumbersInArray\obj\Debug\CountOfOddNumbersInArray.pdb

@@ -1,0 +1,6 @@
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\ArraysSimpleArrayLab\SumArrayElements\bin\Debug\SumArrayElements.exe.config
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\ArraysSimpleArrayLab\SumArrayElements\bin\Debug\SumArrayElements.exe
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\ArraysSimpleArrayLab\SumArrayElements\bin\Debug\SumArrayElements.pdb
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\ArraysSimpleArrayLab\SumArrayElements\obj\Debug\SumArrayElements.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\ArraysSimpleArrayLab\SumArrayElements\obj\Debug\SumArrayElements.exe
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\ArraysSimpleArrayLab\SumArrayElements\obj\Debug\SumArrayElements.pdb

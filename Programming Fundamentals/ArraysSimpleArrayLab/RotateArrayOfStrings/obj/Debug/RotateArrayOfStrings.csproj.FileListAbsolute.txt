@@ -1,0 +1,6 @@
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\ArraysSimpleArrayLab\RotateArrayOfStrings\bin\Debug\RotateArrayOfStrings.exe.config
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\ArraysSimpleArrayLab\RotateArrayOfStrings\bin\Debug\RotateArrayOfStrings.exe
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\ArraysSimpleArrayLab\RotateArrayOfStrings\bin\Debug\RotateArrayOfStrings.pdb
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\ArraysSimpleArrayLab\RotateArrayOfStrings\obj\Debug\RotateArrayOfStrings.exe
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\ArraysSimpleArrayLab\RotateArrayOfStrings\obj\Debug\RotateArrayOfStrings.pdb
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\ArraysSimpleArrayLab\RotateArrayOfStrings\obj\Debug\RotateArrayOfStrings.csprojResolveAssemblyReference.cache
