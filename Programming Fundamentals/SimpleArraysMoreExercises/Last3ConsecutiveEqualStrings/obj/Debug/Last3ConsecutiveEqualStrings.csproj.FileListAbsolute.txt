@@ -1,0 +1,6 @@
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\SimpleArraysMoreExercises\Last3ConsecutiveEqualStrings\bin\Debug\Last3ConsecutiveEqualStrings.exe.config
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\SimpleArraysMoreExercises\Last3ConsecutiveEqualStrings\bin\Debug\Last3ConsecutiveEqualStrings.exe
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\SimpleArraysMoreExercises\Last3ConsecutiveEqualStrings\bin\Debug\Last3ConsecutiveEqualStrings.pdb
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\SimpleArraysMoreExercises\Last3ConsecutiveEqualStrings\obj\Debug\Last3ConsecutiveEqualStrings.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\SimpleArraysMoreExercises\Last3ConsecutiveEqualStrings\obj\Debug\Last3ConsecutiveEqualStrings.exe
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\SimpleArraysMoreExercises\Last3ConsecutiveEqualStrings\obj\Debug\Last3ConsecutiveEqualStrings.pdb

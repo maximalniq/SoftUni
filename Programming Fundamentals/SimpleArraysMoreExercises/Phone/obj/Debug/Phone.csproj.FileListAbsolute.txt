@@ -1,0 +1,6 @@
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\SimpleArraysMoreExercises\Phone\bin\Debug\Phone.exe.config
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\SimpleArraysMoreExercises\Phone\bin\Debug\Phone.exe
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\SimpleArraysMoreExercises\Phone\bin\Debug\Phone.pdb
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\SimpleArraysMoreExercises\Phone\obj\Debug\Phone.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\SimpleArraysMoreExercises\Phone\obj\Debug\Phone.exe
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\SimpleArraysMoreExercises\Phone\obj\Debug\Phone.pdb

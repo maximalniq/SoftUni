@@ -1,0 +1,6 @@
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\SimpleArraysMoreExercises\CharRotation\bin\Debug\CharRotation.exe.config
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\SimpleArraysMoreExercises\CharRotation\bin\Debug\CharRotation.exe
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\SimpleArraysMoreExercises\CharRotation\bin\Debug\CharRotation.pdb
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\SimpleArraysMoreExercises\CharRotation\obj\Debug\CharRotation.exe
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\SimpleArraysMoreExercises\CharRotation\obj\Debug\CharRotation.pdb
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\SimpleArraysMoreExercises\CharRotation\obj\Debug\CharRotation.csprojResolveAssemblyReference.cache
