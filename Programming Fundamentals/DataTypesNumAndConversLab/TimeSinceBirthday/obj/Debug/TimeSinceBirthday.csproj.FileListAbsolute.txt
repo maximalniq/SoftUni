@@ -1,6 +1,0 @@
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesNumAndConversLab\TimeSinceBirthday\bin\Debug\TimeSinceBirthday.exe.config
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesNumAndConversLab\TimeSinceBirthday\bin\Debug\TimeSinceBirthday.exe
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesNumAndConversLab\TimeSinceBirthday\bin\Debug\TimeSinceBirthday.pdb
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesNumAndConversLab\TimeSinceBirthday\obj\Debug\TimeSinceBirthday.csprojResolveAssemblyReference.cache
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesNumAndConversLab\TimeSinceBirthday\obj\Debug\TimeSinceBirthday.exe
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesNumAndConversLab\TimeSinceBirthday\obj\Debug\TimeSinceBirthday.pdb

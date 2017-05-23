@@ -1,5 +1,0 @@
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DebuggingExercises\MiningCoins\bin\Debug\MiningCoins.exe.config
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DebuggingExercises\MiningCoins\bin\Debug\MiningCoins.exe
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DebuggingExercises\MiningCoins\bin\Debug\MiningCoins.pdb
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DebuggingExercises\MiningCoins\obj\Debug\MiningCoins.exe
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DebuggingExercises\MiningCoins\obj\Debug\MiningCoins.pdb

@@ -1,1 +1,0 @@
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DebuggingExercises\Tetris_Broken\bin\Debug\Tetris_Broken.exe.config

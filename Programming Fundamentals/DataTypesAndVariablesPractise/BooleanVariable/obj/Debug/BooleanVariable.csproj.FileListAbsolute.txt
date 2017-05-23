@@ -1,5 +1,0 @@
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesAndVariablesExercise\BooleanVariable\bin\Debug\BooleanVariable.exe.config
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesAndVariablesExercise\BooleanVariable\bin\Debug\BooleanVariable.exe
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesAndVariablesExercise\BooleanVariable\bin\Debug\BooleanVariable.pdb
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesAndVariablesExercise\BooleanVariable\obj\Debug\BooleanVariable.exe
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesAndVariablesExercise\BooleanVariable\obj\Debug\BooleanVariable.pdb

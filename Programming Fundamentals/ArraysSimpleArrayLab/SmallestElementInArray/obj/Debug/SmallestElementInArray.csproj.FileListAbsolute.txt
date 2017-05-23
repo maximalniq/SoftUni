@@ -1,5 +1,0 @@
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\ArraysSimpleArrayLab\SmallestElementInArray\bin\Debug\SmallestElementInArray.exe.config
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\ArraysSimpleArrayLab\SmallestElementInArray\bin\Debug\SmallestElementInArray.exe
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\ArraysSimpleArrayLab\SmallestElementInArray\bin\Debug\SmallestElementInArray.pdb
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\ArraysSimpleArrayLab\SmallestElementInArray\obj\Debug\SmallestElementInArray.exe
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\ArraysSimpleArrayLab\SmallestElementInArray\obj\Debug\SmallestElementInArray.pdb

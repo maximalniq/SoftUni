@@ -1,1 +1,0 @@
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesAndVariables\RefactorSpecialNumbers\bin\Debug\RefactorSpecialNumbers.exe.config

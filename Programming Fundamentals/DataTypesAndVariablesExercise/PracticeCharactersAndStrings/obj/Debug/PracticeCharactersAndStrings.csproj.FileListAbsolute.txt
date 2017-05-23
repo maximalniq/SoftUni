@@ -1,5 +1,0 @@
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesAndVariablesExercise\PracticeCharactersAndStrings\bin\Debug\PracticeCharactersAndStrings.exe.config
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesAndVariablesExercise\PracticeCharactersAndStrings\bin\Debug\PracticeCharactersAndStrings.exe
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesAndVariablesExercise\PracticeCharactersAndStrings\bin\Debug\PracticeCharactersAndStrings.pdb
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesAndVariablesExercise\PracticeCharactersAndStrings\obj\Debug\PracticeCharactersAndStrings.exe
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesAndVariablesExercise\PracticeCharactersAndStrings\obj\Debug\PracticeCharactersAndStrings.pdb

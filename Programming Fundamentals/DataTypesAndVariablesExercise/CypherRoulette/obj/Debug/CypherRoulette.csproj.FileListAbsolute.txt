@@ -1,5 +1,0 @@
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesAndVariablesExercise\CypherRoulette\bin\Debug\CypherRoulette.exe.config
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesAndVariablesExercise\CypherRoulette\bin\Debug\CypherRoulette.exe
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesAndVariablesExercise\CypherRoulette\bin\Debug\CypherRoulette.pdb
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesAndVariablesExercise\CypherRoulette\obj\Debug\CypherRoulette.exe
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesAndVariablesExercise\CypherRoulette\obj\Debug\CypherRoulette.pdb

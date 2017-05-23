@@ -1,5 +1,0 @@
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesAndVariablesExercise\ASCIIString\bin\Debug\ASCIIString.exe.config
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesAndVariablesExercise\ASCIIString\bin\Debug\ASCIIString.exe
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesAndVariablesExercise\ASCIIString\bin\Debug\ASCIIString.pdb
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesAndVariablesExercise\ASCIIString\obj\Debug\ASCIIString.exe
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesAndVariablesExercise\ASCIIString\obj\Debug\ASCIIString.pdb

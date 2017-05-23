@@ -1,5 +1,0 @@
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesNumAndConversLab\CirclePerimeter\bin\Debug\CirclePerimeter.exe.config
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesNumAndConversLab\CirclePerimeter\bin\Debug\CirclePerimeter.exe
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesNumAndConversLab\CirclePerimeter\bin\Debug\CirclePerimeter.pdb
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesNumAndConversLab\CirclePerimeter\obj\Debug\CirclePerimeter.exe
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesNumAndConversLab\CirclePerimeter\obj\Debug\CirclePerimeter.pdb

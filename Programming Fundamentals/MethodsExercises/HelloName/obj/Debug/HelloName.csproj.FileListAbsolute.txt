@@ -1,6 +1,0 @@
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\MethodsExercises\HelloName\bin\Debug\HelloName.exe.config
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\MethodsExercises\HelloName\obj\Debug\HelloName.csprojResolveAssemblyReference.cache
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\MethodsExercises\HelloName\bin\Debug\HelloName.exe
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\MethodsExercises\HelloName\bin\Debug\HelloName.pdb
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\MethodsExercises\HelloName\obj\Debug\HelloName.exe
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\MethodsExercises\HelloName\obj\Debug\HelloName.pdb

@@ -1,5 +1,0 @@
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesAndVariablesExercise\FromTerabytesToBits\bin\Debug\FromTerabytesToBits.exe.config
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesAndVariablesExercise\FromTerabytesToBits\bin\Debug\FromTerabytesToBits.exe
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesAndVariablesExercise\FromTerabytesToBits\bin\Debug\FromTerabytesToBits.pdb
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesAndVariablesExercise\FromTerabytesToBits\obj\Debug\FromTerabytesToBits.exe
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesAndVariablesExercise\FromTerabytesToBits\obj\Debug\FromTerabytesToBits.pdb

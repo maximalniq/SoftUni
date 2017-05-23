@@ -1,5 +1,0 @@
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\ArraysSimpleArrayLab\MultiplyArrayOfDoubles\bin\Debug\MultiplyArrayOfDoubles.exe.config
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\ArraysSimpleArrayLab\MultiplyArrayOfDoubles\bin\Debug\MultiplyArrayOfDoubles.exe
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\ArraysSimpleArrayLab\MultiplyArrayOfDoubles\bin\Debug\MultiplyArrayOfDoubles.pdb
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\ArraysSimpleArrayLab\MultiplyArrayOfDoubles\obj\Debug\MultiplyArrayOfDoubles.exe
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\ArraysSimpleArrayLab\MultiplyArrayOfDoubles\obj\Debug\MultiplyArrayOfDoubles.pdb

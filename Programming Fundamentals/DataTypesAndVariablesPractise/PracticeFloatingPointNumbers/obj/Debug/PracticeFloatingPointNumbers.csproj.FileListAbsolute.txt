@@ -1,5 +1,0 @@
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesAndVariablesExercise\PracticeFloatingPointNumbers\bin\Debug\PracticeFloatingPointNumbers.exe.config
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesAndVariablesExercise\PracticeFloatingPointNumbers\bin\Debug\PracticeFloatingPointNumbers.exe
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesAndVariablesExercise\PracticeFloatingPointNumbers\bin\Debug\PracticeFloatingPointNumbers.pdb
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesAndVariablesExercise\PracticeFloatingPointNumbers\obj\Debug\PracticeFloatingPointNumbers.exe
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SoftUni\Programming Fundamentals\DataTypesAndVariablesExercise\PracticeFloatingPointNumbers\obj\Debug\PracticeFloatingPointNumbers.pdb
