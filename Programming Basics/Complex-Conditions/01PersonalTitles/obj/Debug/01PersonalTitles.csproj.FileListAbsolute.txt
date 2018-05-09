@@ -1,6 +1,0 @@
-c:\users\martin\documents\visual studio 2015\Projects\Complex-Conditions\01PersonalTitles\bin\Debug\01PersonalTitles.exe.config
-c:\users\martin\documents\visual studio 2015\Projects\Complex-Conditions\01PersonalTitles\bin\Debug\01PersonalTitles.exe
-c:\users\martin\documents\visual studio 2015\Projects\Complex-Conditions\01PersonalTitles\bin\Debug\01PersonalTitles.pdb
-c:\users\martin\documents\visual studio 2015\Projects\Complex-Conditions\01PersonalTitles\obj\Debug\01PersonalTitles.csprojResolveAssemblyReference.cache
-c:\users\martin\documents\visual studio 2015\Projects\Complex-Conditions\01PersonalTitles\obj\Debug\01PersonalTitles.exe
-c:\users\martin\documents\visual studio 2015\Projects\Complex-Conditions\01PersonalTitles\obj\Debug\01PersonalTitles.pdb

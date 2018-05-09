@@ -1,5 +1,0 @@
-c:\users\martin\documents\visual studio 2015\Projects\Complex-Conditions\10AnimalType\bin\Debug\10AnimalType.exe.config
-c:\users\martin\documents\visual studio 2015\Projects\Complex-Conditions\10AnimalType\bin\Debug\10AnimalType.exe
-c:\users\martin\documents\visual studio 2015\Projects\Complex-Conditions\10AnimalType\bin\Debug\10AnimalType.pdb
-c:\users\martin\documents\visual studio 2015\Projects\Complex-Conditions\10AnimalType\obj\Debug\10AnimalType.exe
-c:\users\martin\documents\visual studio 2015\Projects\Complex-Conditions\10AnimalType\obj\Debug\10AnimalType.pdb

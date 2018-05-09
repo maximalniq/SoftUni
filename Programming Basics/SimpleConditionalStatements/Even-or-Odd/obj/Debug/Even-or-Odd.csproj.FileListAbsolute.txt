@@ -1,5 +1,0 @@
-c:\users\martin\documents\visual studio 2015\Projects\SimpleConditionalStatements\Even-or-Odd\bin\Debug\Even-or-Odd.exe.config
-c:\users\martin\documents\visual studio 2015\Projects\SimpleConditionalStatements\Even-or-Odd\bin\Debug\Even-or-Odd.exe
-c:\users\martin\documents\visual studio 2015\Projects\SimpleConditionalStatements\Even-or-Odd\bin\Debug\Even-or-Odd.pdb
-c:\users\martin\documents\visual studio 2015\Projects\SimpleConditionalStatements\Even-or-Odd\obj\Debug\Even-or-Odd.exe
-c:\users\martin\documents\visual studio 2015\Projects\SimpleConditionalStatements\Even-or-Odd\obj\Debug\Even-or-Odd.pdb

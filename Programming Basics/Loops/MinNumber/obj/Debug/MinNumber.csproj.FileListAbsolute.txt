@@ -1,5 +1,0 @@
-c:\users\martin\documents\visual studio 2015\Projects\Loops\MinNumber\bin\Debug\MinNumber.exe.config
-c:\users\martin\documents\visual studio 2015\Projects\Loops\MinNumber\bin\Debug\MinNumber.exe
-c:\users\martin\documents\visual studio 2015\Projects\Loops\MinNumber\bin\Debug\MinNumber.pdb
-c:\users\martin\documents\visual studio 2015\Projects\Loops\MinNumber\obj\Debug\MinNumber.exe
-c:\users\martin\documents\visual studio 2015\Projects\Loops\MinNumber\obj\Debug\MinNumber.pdb

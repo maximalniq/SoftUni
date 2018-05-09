@@ -1,5 +1,0 @@
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SimpleConditionalStatements\Number100to200\bin\Debug\Number100to200.exe.config
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SimpleConditionalStatements\Number100to200\bin\Debug\Number100to200.exe
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SimpleConditionalStatements\Number100to200\bin\Debug\Number100to200.pdb
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SimpleConditionalStatements\Number100to200\obj\Debug\Number100to200.exe
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SimpleConditionalStatements\Number100to200\obj\Debug\Number100to200.pdb

@@ -1,6 +1,0 @@
-c:\users\martin\documents\visual studio 2015\Projects\Complex-Conditions\03PointInRectangle\bin\Debug\03PointInRectangle.exe.config
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\Complex-Conditions\03PointInRectangle\bin\Debug\03PointInRectangle.exe
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\Complex-Conditions\03PointInRectangle\bin\Debug\03PointInRectangle.pdb
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\Complex-Conditions\03PointInRectangle\obj\Debug\03PointInRectangle.csprojResolveAssemblyReference.cache
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\Complex-Conditions\03PointInRectangle\obj\Debug\03PointInRectangle.exe
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\Complex-Conditions\03PointInRectangle\obj\Debug\03PointInRectangle.pdb

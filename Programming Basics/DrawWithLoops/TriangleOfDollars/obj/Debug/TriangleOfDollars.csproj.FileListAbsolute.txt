@@ -1,5 +1,0 @@
-c:\users\martin\documents\visual studio 2015\Projects\DrawWithLoops\TriangleOfDollars\bin\Debug\TriangleOfDollars.exe.config
-c:\users\martin\documents\visual studio 2015\Projects\DrawWithLoops\TriangleOfDollars\bin\Debug\TriangleOfDollars.exe
-c:\users\martin\documents\visual studio 2015\Projects\DrawWithLoops\TriangleOfDollars\bin\Debug\TriangleOfDollars.pdb
-c:\users\martin\documents\visual studio 2015\Projects\DrawWithLoops\TriangleOfDollars\obj\Debug\TriangleOfDollars.exe
-c:\users\martin\documents\visual studio 2015\Projects\DrawWithLoops\TriangleOfDollars\obj\Debug\TriangleOfDollars.pdb

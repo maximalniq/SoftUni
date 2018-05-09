@@ -1,5 +1,0 @@
-c:\users\martin\documents\visual studio 2015\Projects\AdvancedLoops\SumDigits\bin\Debug\SumDigits.exe.config
-c:\users\martin\documents\visual studio 2015\Projects\AdvancedLoops\SumDigits\bin\Debug\SumDigits.exe
-c:\users\martin\documents\visual studio 2015\Projects\AdvancedLoops\SumDigits\bin\Debug\SumDigits.pdb
-c:\users\martin\documents\visual studio 2015\Projects\AdvancedLoops\SumDigits\obj\Debug\SumDigits.exe
-c:\users\martin\documents\visual studio 2015\Projects\AdvancedLoops\SumDigits\obj\Debug\SumDigits.pdb

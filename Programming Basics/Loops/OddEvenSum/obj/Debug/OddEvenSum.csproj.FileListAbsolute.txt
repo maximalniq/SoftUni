@@ -1,5 +1,0 @@
-c:\users\martin\documents\visual studio 2015\Projects\Loops\OddEvenSum\bin\Debug\OddEvenSum.exe.config
-c:\users\martin\documents\visual studio 2015\Projects\Loops\OddEvenSum\bin\Debug\OddEvenSum.exe
-c:\users\martin\documents\visual studio 2015\Projects\Loops\OddEvenSum\bin\Debug\OddEvenSum.pdb
-c:\users\martin\documents\visual studio 2015\Projects\Loops\OddEvenSum\obj\Debug\OddEvenSum.exe
-c:\users\martin\documents\visual studio 2015\Projects\Loops\OddEvenSum\obj\Debug\OddEvenSum.pdb

@@ -1,5 +1,0 @@
-c:\users\martin\documents\visual studio 2015\Projects\DrawWithLoops\Sunglasses\bin\Debug\Sunglasses.exe.config
-c:\users\martin\documents\visual studio 2015\Projects\DrawWithLoops\Sunglasses\bin\Debug\Sunglasses.exe
-c:\users\martin\documents\visual studio 2015\Projects\DrawWithLoops\Sunglasses\bin\Debug\Sunglasses.pdb
-c:\users\martin\documents\visual studio 2015\Projects\DrawWithLoops\Sunglasses\obj\Debug\Sunglasses.exe
-c:\users\martin\documents\visual studio 2015\Projects\DrawWithLoops\Sunglasses\obj\Debug\Sunglasses.pdb

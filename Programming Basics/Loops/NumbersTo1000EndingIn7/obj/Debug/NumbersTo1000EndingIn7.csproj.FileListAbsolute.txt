@@ -1,5 +1,0 @@
-c:\users\martin\documents\visual studio 2015\Projects\Loops\NumbersTo1000EndingIn7\bin\Debug\NumbersTo1000EndingIn7.exe.config
-c:\users\martin\documents\visual studio 2015\Projects\Loops\NumbersTo1000EndingIn7\bin\Debug\NumbersTo1000EndingIn7.exe
-c:\users\martin\documents\visual studio 2015\Projects\Loops\NumbersTo1000EndingIn7\bin\Debug\NumbersTo1000EndingIn7.pdb
-c:\users\martin\documents\visual studio 2015\Projects\Loops\NumbersTo1000EndingIn7\obj\Debug\NumbersTo1000EndingIn7.exe
-c:\users\martin\documents\visual studio 2015\Projects\Loops\NumbersTo1000EndingIn7\obj\Debug\NumbersTo1000EndingIn7.pdb

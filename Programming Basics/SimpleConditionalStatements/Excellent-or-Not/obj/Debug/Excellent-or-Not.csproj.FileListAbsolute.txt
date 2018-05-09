@@ -1,5 +1,0 @@
-c:\users\martin\documents\visual studio 2015\Projects\SimpleConditionalStatements\Excellent-or-Not\bin\Debug\Excellent-or-Not.exe.config
-c:\users\martin\documents\visual studio 2015\Projects\SimpleConditionalStatements\Excellent-or-Not\bin\Debug\Excellent-or-Not.exe
-c:\users\martin\documents\visual studio 2015\Projects\SimpleConditionalStatements\Excellent-or-Not\bin\Debug\Excellent-or-Not.pdb
-c:\users\martin\documents\visual studio 2015\Projects\SimpleConditionalStatements\Excellent-or-Not\obj\Debug\Excellent-or-Not.exe
-c:\users\martin\documents\visual studio 2015\Projects\SimpleConditionalStatements\Excellent-or-Not\obj\Debug\Excellent-or-Not.pdb

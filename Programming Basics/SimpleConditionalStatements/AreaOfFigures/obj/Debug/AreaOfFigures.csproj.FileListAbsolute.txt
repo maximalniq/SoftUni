@@ -1,5 +1,0 @@
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SimpleConditionalStatements\AreaOfFigures\bin\Debug\AreaOfFigures.exe.config
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SimpleConditionalStatements\AreaOfFigures\bin\Debug\AreaOfFigures.exe
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SimpleConditionalStatements\AreaOfFigures\bin\Debug\AreaOfFigures.pdb
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SimpleConditionalStatements\AreaOfFigures\obj\Debug\AreaOfFigures.exe
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SimpleConditionalStatements\AreaOfFigures\obj\Debug\AreaOfFigures.pdb

@@ -1,5 +1,0 @@
-c:\users\martin\documents\visual studio 2015\Projects\AdvancedLoops\GreatestCommonDivisor\bin\Debug\GreatestCommonDivisor.exe.config
-c:\users\martin\documents\visual studio 2015\Projects\AdvancedLoops\GreatestCommonDivisor\bin\Debug\GreatestCommonDivisor.exe
-c:\users\martin\documents\visual studio 2015\Projects\AdvancedLoops\GreatestCommonDivisor\bin\Debug\GreatestCommonDivisor.pdb
-c:\users\martin\documents\visual studio 2015\Projects\AdvancedLoops\GreatestCommonDivisor\obj\Debug\GreatestCommonDivisor.exe
-c:\users\martin\documents\visual studio 2015\Projects\AdvancedLoops\GreatestCommonDivisor\obj\Debug\GreatestCommonDivisor.pdb

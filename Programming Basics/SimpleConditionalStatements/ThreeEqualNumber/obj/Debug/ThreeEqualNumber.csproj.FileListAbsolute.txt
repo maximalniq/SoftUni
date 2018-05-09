@@ -1,5 +1,0 @@
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SimpleConditionalStatements\ThreeEqualNumber\bin\Debug\ThreeEqualNumber.exe.config
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SimpleConditionalStatements\ThreeEqualNumber\bin\Debug\ThreeEqualNumber.exe
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SimpleConditionalStatements\ThreeEqualNumber\bin\Debug\ThreeEqualNumber.pdb
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SimpleConditionalStatements\ThreeEqualNumber\obj\Debug\ThreeEqualNumber.exe
-C:\Users\Martin\Documents\Visual Studio 2015\Projects\SimpleConditionalStatements\ThreeEqualNumber\obj\Debug\ThreeEqualNumber.pdb
